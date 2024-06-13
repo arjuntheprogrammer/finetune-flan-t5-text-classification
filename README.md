@@ -80,3 +80,9 @@ The following hyperparameters were used during training:
 <https://huggingface.co/arjuntheprogrammer/flan-t5-base-imdb-text-classification>
 
 ---
+
+## YT RECORDING
+
+[![Flan T5 BASE Finetuning](https://img.youtube.com/vi/Bt00OthyE4U/0.jpg)](https://youtu.be/Bt00OthyE4U)
+
+---
